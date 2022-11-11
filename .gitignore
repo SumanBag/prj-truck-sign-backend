@@ -2,8 +2,8 @@
 *
 # But not these files
 !.gitignore
-!./prj-api-lib/*
-!./prj-backend/*
-!./LICENSE
-!./pom.xml
-!./README.md
+!prj-api-lib/
+!prj-backend/
+!LICENSE
+!pom.xml
+!README.md
